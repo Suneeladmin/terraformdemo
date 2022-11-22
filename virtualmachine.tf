@@ -1,0 +1,3 @@
+resource "" "required_parameters" {
+  
+}
